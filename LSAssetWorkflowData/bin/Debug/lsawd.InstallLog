@@ -1,0 +1,32 @@
+﻿Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe
+Removing EventLog source lsawd.
+Service lsawd is being removed from the system...
+Service lsawd was successfully removed from the system.
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe
+Removing EventLog source lsawd.
+Warning: The source lsawd is not registered on the local machine.
+Service lsawd is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe
+Installing service lsawd...
+Service lsawd has been successfully installed.
+Creating EventLog source lsawd in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe

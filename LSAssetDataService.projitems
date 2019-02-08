@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>81af961b-0667-44ea-9b85-f6b5d1153126</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>LSAssetDataService</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AssetDataRecordset.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AssetDataRow.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)FileWriter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DataReader.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)EventLogger.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LSAssetData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ServerMonitor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ServiceParameters.cs" />
+  </ItemGroup>
+</Project>

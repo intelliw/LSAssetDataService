@@ -1,0 +1,12 @@
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Release\lsapd.exe.config
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Release\lsapd.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Release\lsapd.pdb
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Release\EPPlus.dll
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Release\EPPlus.xml
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\LSAssetDataService.LSAssetProvisioningData.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\LSAssetDataService.ProjectInstaller.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\LSAssetProvisioningData.csproj.GenerateResource.Cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\LSAssetProvisioningData.csproj.CoreCompileInputs.cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\lsapd.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\lsapd.pdb
+E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\obj\Release\LSAssetProvisioningData.csprojResolveAssemblyReference.cache

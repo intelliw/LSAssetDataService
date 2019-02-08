@@ -1,0 +1,56 @@
+﻿Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Removing EventLog source lsapard.
+Warning: The source lsapard is not registered on the local machine.
+Service lsapard is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Installing service lsapard...
+Service lsapard has been successfully installed.
+Creating EventLog source lsapard in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Removing EventLog source lsapard.
+Service lsapard is being removed from the system...
+Service lsapard was successfully removed from the system.
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Removing EventLog source lsapard.
+Warning: The source lsapard is not registered on the local machine.
+Service lsapard is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe
+Installing service lsapard...
+Service lsapard has been successfully installed.
+Creating EventLog source lsapard in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Debug\lsapard.exe

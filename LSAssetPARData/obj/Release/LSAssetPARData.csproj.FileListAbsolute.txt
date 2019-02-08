@@ -1,0 +1,12 @@
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Release\lsapard.exe.config
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Release\lsapard.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Release\lsapard.pdb
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Release\EPPlus.dll
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\bin\Release\EPPlus.xml
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\LSAssetPARData.csprojResolveAssemblyReference.cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\LSAssetDataService.LSAssetPARData.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\LSAssetDataService.ProjectInstaller.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\LSAssetPARData.csproj.GenerateResource.Cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\LSAssetPARData.csproj.CoreCompileInputs.cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\lsapard.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetPARData\obj\Release\lsapard.pdb

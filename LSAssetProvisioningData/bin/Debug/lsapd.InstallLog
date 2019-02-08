@@ -1,0 +1,346 @@
+﻿Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Warning: The source lsapd is not registered on the local machine.
+Service lsapd is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Warning: The source lsapd is not registered on the local machine.
+Service lsapd is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Warning: The source lsapd is not registered on the local machine.
+Service lsapd is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.IO.IOException: No more data is available.
+
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Creating EventLog source lsapd in log Application...
+Rolling back assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Restoring event log to previous state for source lsapd.
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Warning: The source lsapd is not registered on the local machine.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = C:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Service lsapd is being removed from the system...
+Service lsapd was successfully removed from the system.
+Uninstalling assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Removing EventLog source lsapd.
+Warning: The source lsapd is not registered on the local machine.
+Service lsapd is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe
+Installing service lsapd...
+Service lsapd has been successfully installed.
+Creating EventLog source lsapd in log Application...
+Committing assembly 'E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.InstallLog
+   assemblypath = E:\_frg\vs\repos\LSAssetDataService\LSAssetProvisioningData\bin\Debug\lsapd.exe

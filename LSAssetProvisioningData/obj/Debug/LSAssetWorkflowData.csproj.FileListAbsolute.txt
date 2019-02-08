@@ -1,0 +1,10 @@
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\LSAssetWorkflowData.csprojResolveAssemblyReference.cache
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\LSAssetDataService.LSAssetWorkflowData.resources
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\LSAssetDataService.lsawdProjectInstaller.resources
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\LSAssetWorkflowData.csproj.GenerateResource.Cache
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\LSAssetWorkflowData.csproj.CoreCompileInputs.cache
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe.config
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.exe
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Debug\lsawd.pdb
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\lsawd.exe
+C:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Debug\lsawd.pdb

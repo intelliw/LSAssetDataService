@@ -1,0 +1,12 @@
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Release\lsawd.exe.config
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Release\lsawd.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Release\lsawd.pdb
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Release\EPPlus.dll
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\bin\Release\EPPlus.xml
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\LSAssetWorkflowData.csprojResolveAssemblyReference.cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\LSAssetDataService.LSAssetWorkflowData.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\LSAssetDataService.ProjectInstaller.resources
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\LSAssetWorkflowData.csproj.GenerateResource.Cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\LSAssetWorkflowData.csproj.CoreCompileInputs.cache
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\lsawd.exe
+E:\_frg\vs\repos\LSAssetDataService\LSAssetWorkflowData\obj\Release\lsawd.pdb
